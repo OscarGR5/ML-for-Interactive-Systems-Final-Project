@@ -6,7 +6,6 @@
 - **Oscar Gutierrez Roman**  
     University of Limerick, 23365978@studentmail.ul.ie
 - **Donncha Mitchell**  
-    University of Limerick, 23389559@studentmail.ul.ie
 
 ### Introduction
 This project explores the integration of Artificial Intelligence (AI) and Machine Learning (ML) in gaming, focusing on developing a Rock Paper Scissors game using gesture recognition for user interaction. The primary aim is to utilize HandPoseOSC for gesture recognition, enhancing player interaction.
