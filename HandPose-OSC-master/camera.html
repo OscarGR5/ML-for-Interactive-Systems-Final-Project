@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>HandPose OSC</title>
+</head>
+
+<body>
+    <div class="loader-container" id="loading">
+        <div class="loader"></div>
+        <div class="loader-text">
+            If this is the first time running the program, make sure your computer is connected to the internet.
+        </div>
+    </div>
+
+    <div id='main' style='display:none'>
+        <video id="video" playsinline class="video-feed">
+        </video>
+        <canvas id="output" />
+    </div>
+    <script src="camera.js"></script>
+</body>
+</html>
